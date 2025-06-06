@@ -1,5 +1,8 @@
 # Segmentação RFM com Clustering
 
+### Por favor:
+Antes de começar, entenda o projeto e todos os termos técnicos aqui: <a href="https://github.com/RastaDados/Analise_RFM/blob/main/Entenda%20o%20Projeto.md">Acesse</a>
+
 <hr>
 
 ## 🎯 Objetivos da Análise
@@ -29,15 +32,15 @@ A empresa precisava entender melhor o comportamento de seus clientes para aprimo
 
 ## 🔗 Links
 
-Dashboard do Power BI: Acesse
+Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjhkZGFjNjktMGQyNi00OWI4LWI5N2EtZjAyOTFmMGY2ZjY5IiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-Apresentação (Business Analysis): Acesse
+Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Analise_RFM/blob/main/An%C3%A1lise%20de%20Mercado.md"> Acesse </a>
 
-Dashboards e Códigos Utilizados neste Projeto: Acesse
+Dashboards e Códigos Utilizados neste Projeto: <A href="https://github.com/RastaDados/Analise_RFM/tree/main/Dashboards"> Acesse </a>
 
 <hr>
 
 ## ✍️ Autor
 
-Mateus França - LinkedIn
+Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">LinkedIn</a>
 
